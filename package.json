@@ -1,0 +1,25 @@
+{
+  "name": "s03e08-oblog",
+  "version": "1.0.0",
+  "description": "challenge o'blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Severo-Yannick/-S03E08-OBlog.git"
+  },
+  "author": "Severo-Yannick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Severo-Yannick/-S03E08-OBlog/issues"
+  },
+  "homepage": "https://github.com/Severo-Yannick/-S03E08-OBlog#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
